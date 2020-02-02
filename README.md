@@ -16,7 +16,7 @@ This is Anolla, and I'm going to be talking a bout Growth Minds.
 
 for more information on growth mindset, you can visit my profile, I post alot of articles about it.[https://github.com/Anolla]
 
-#### Thank you for reading and I hope you all have a groth mind to fet ahead in life.
+Thank you for reading and I hope you all have a groth mind to fet ahead in life.
 
 
 
