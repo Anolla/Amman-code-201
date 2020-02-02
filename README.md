@@ -2,7 +2,7 @@
 
 Hello all,
 
-This is Anolla, and I'm going to be talking a bout Growth Minds.
+This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
 ### Growth minds are minds who have a mindset that leads to success, as people who have growth minds believe that success doesn't happen because you are talented, it needs effort, if talent is the key people who work hard won't succeed.
 
