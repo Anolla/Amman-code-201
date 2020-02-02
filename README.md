@@ -4,6 +4,8 @@ Hello all,
 
 This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
+![growth minds](https://www.jpinternational.co.in/wp-content/uploads/2019/02/sp-mindset-482x335.jpg) 
+
 ### Growth minds are minds who have a mindset that leads to success, as people who have growth minds believe that success doesn't happen because you are talented, it needs effort, if talent is the key people who work hard won't succeed.
 
 **Here are some reminders  growth mindset:**
@@ -14,9 +16,11 @@ This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
 3 *There are many opportunities in life, your breakthrough is coming, __believe in yourself.*
 
-#### for more information on growth mindset, you can visit my profile, I post alot of articles about it.[https://github.com/Anolla] :wink: 
+#### for more information on growth mindset, you can visit my profile, I post a lot of articles about it. https://github.com/Anolla
 
 Thank you for reading and I hope you all have a groth mind to fet ahead in life.
+
+
 
 
 
