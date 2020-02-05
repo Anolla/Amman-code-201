@@ -1,5 +1,5 @@
-### JavaScript can be used
-in browsers to make websites more interactive,
+### JavaScript 
+it can be used in browsers to make websites more interactive,
 interesting, and user-friendly
 
 - jQuery makes writing javascript easier
