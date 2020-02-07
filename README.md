@@ -1,6 +1,6 @@
 # Learning Journal
 
-Hello everyone,
+Hello everyone!
 
 This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
