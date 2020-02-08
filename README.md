@@ -16,7 +16,7 @@ This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
 3 *There are many opportunities in life, your breakthrough is coming, __believe in yourself.*
 
-#### for more information on growth mindset, you can visit my profile, I post a lot of articles about it. https://github.com/Anolla
+#### for more information on growth mindset, you can visit my profile, I post a lot of articles about it. [My profile](https://github.com/Anolla)
 
 Thank you for reading and I hope you all have a growth mind to get ahead in life.
 
