@@ -20,7 +20,8 @@ This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
 Thank you for reading and I hope you all have a growth mind to get ahead in life.
 
-
-
-
-
+Topics | Links
+-------| ------
+growth mindest | [Java Script](https://anolla.github.io/Learning-Journal/JAVA%20SCRIPT)
+text editor | [Text Editors](https://anolla.github.io/Learning-Journal/Text%20Editors)
+Git | [Git](https://anolla.github.io/Learning-Journal/Git)
