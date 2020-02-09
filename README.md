@@ -1,6 +1,6 @@
 # Learning Journal
 
-Hello everyone,
+Hello everyone!
 
 This is Anolla :blush: , and I'm going to be talking about Growth Minds.
 
@@ -27,7 +27,6 @@ growth mindest | [Java Script](https://anolla.github.io/Learning-Journal/JAVA%20
 text editor | [Text Editors](https://anolla.github.io/Learning-Journal/Text%20Editors)
 Git | [Git](https://anolla.github.io/Learning-Journal/Git)
 
-------------------------------------------------------------------------------------------------------------
 
 
 
